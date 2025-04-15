@@ -59,7 +59,7 @@ Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** and a li
 
 ## 🌐 Connect With Me
 
-- 💼 [LinkedIn](linkedin.com/in/ashish-mittal-184b61313)
+- 💼 [LinkedIn]([linkedin.com/in/ashish-mittal-184b61313](https://www.linkedin.com/in/ashish-mittal-184b61313/))
 - 🌍 [Portfolio Website](https://my-space-portfolio-website.vercel.app/)
 - 📧 [Email](mailto:aashishrbmittal@gmail.com)
 
