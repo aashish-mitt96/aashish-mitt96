@@ -59,37 +59,10 @@ Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** and a li
 
 ## 🌐 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/aashish-mitt96/)
-- 🌍 [Portfolio Website](https://www.yourwebsite.com)
-- 📧 [Email](mailto:aashish.mitt96@example.com)
+- 💼 [LinkedIn](linkedin.com/in/ashish-mittal-184b61313)
+- 🌍 [Portfolio Website](https://my-space-portfolio-website.vercel.app/)
+- 📧 [Email](mailto:aashishrbmittal@gmail.com)
 
----
-
-## 🚀 Featured Projects
-
-### [Project Name 1](https://github.com/aashish-mitt96/project-1)
-> A brief description of the project goes here.  
-> **Tech Stack:** React, Node.js, MongoDB  
-> ⭐️ Stars: _[Add your stars]_
-
-### [Project Name 2](https://github.com/aashish-mitt96/project-2)
-> A brief description of the project goes here.  
-> **Tech Stack:** Next.js, Tailwind CSS, Vercel  
-> ⭐️ Stars: _[Add your stars]_
-
-### [Project Name 3](https://github.com/aashish-mitt96/project-3)
-> A brief description of the project goes here.  
-> **Tech Stack:** Express, Mongoose  
-> ⭐️ Stars: _[Add your stars]_
-
----
-
-## 🧩 Current Projects
-
-- **[Project 1](https://github.com/aashish-mitt96/project-1)**: Building a scalable full-stack application using the MERN stack.
-- **[Project 2](https://github.com/aashish-mitt96/project-2)**: Exploring server-side rendering with Next.js and integrating MongoDB Atlas.
-
----
 
 > ⚡ Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect. Let’s build something awesome together.
 
