@@ -67,7 +67,7 @@
 ## 🔝 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashish-mitt96&layout=compact&theme=github_dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashish-mitt96&layout=compact&theme=github_dark&langs_count=10" alt="Top Languages"/>
 </p>
 
 ---
