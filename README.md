@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>🚀 MERN Stack Developer | 🌱 Lifelong Learner | 🛠️ Tech Enthusiast</strong><br/>
-  Building full-stack apps with modern tech and exploring Machine Learning.
+Building the web, one full-stack app at a time
 </p>
 
 ---
