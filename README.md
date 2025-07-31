@@ -15,12 +15,12 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashish-mitt96&layout=compact&langs_count=4&theme=github_dark" 
     alt="Top Languages"
-    height="98" 
-    width="300"/>
+    height="130" 
+    width="280"/>
     <img 
     src="https://github-readme-stats.vercel.app/api?username=aashish-mitt96&show_icons=true&count_private=true&hide=prs,issues&theme=github_dark" 
-    height="380" 
-    width="300"
+    height="350" 
+    width="400"
 />
 </p>
 
