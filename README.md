@@ -2,8 +2,8 @@
 
 <p align="center">
   <strong>💻 Full Stack (MERN) Developer</strong> &nbsp;|&nbsp; 
-  <strong>📚 Data Science & ML Learner</strong> &nbsp;|&nbsp; 
-  <strong>🧠 Problem Solver</strong><br/><br/>
+  <strong>🧠 Data Science & ML Learner</strong> &nbsp;|&nbsp; 
+  <strong>🔥 Problem Solver</strong><br/><br/>
   <em>⚡ Crafting seamless web experiences, one full-stack app at a time ⚡</em>
 </p>
 
