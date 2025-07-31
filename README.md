@@ -15,18 +15,19 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashish-mitt96&layout=compact&langs_count=4&theme=github_dark" 
     alt="Top Languages"
-    width="550"
+    height="98" 
+    width="300"/>
+    <img 
+    src="https://github-readme-stats.vercel.app/api?username=aashish-mitt96&show_icons=true&count_private=true&hide=prs,issues&theme=github_dark" 
+    height="380" 
+    width="300"
 />
 </p>
 
 <hr>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=aashish-mitt96&show_icons=true&count_private=true&hide=prs,issues&theme=github_dark" 
-    height="180" 
-    width="300"
-/>
+
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=aashish-mitt96&theme=github-dark&hide_border=true" 
     height="180" 
