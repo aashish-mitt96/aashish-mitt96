@@ -12,17 +12,7 @@
 <hr>
 
 
-<h3 align="center">📊 Top Languages Used</h3>
 
-<p align="center">
-  <a href="https://github.com/aashish-mitt96">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashish-mitt96&layout=compact&theme=github_dark&langs_count=4" 
-      alt="Top Languages Used"
-      style="transform: scale(1.15); transform-origin: top;"
-    />
-  </a>
-</p>
 
 
 
