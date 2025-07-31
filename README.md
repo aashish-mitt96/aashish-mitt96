@@ -7,8 +7,6 @@
   <em>⚡ Crafting seamless web experiences, one full-stack app at a time ⚡</em>
 </p>
 
-<br>
-
 <hr>
 
 <p align="center">
