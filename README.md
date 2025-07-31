@@ -25,11 +25,10 @@
 <hr>
 
 <p align="center">
-
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=aashish-mitt96&theme=github-dark&hide_border=true" 
-    height="180" 
-    width="300"
+    height="200" 
+    width="900"
 />
 </p>
 
