@@ -35,5 +35,11 @@
 <hr>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aashish-mitt96&theme=github-dark" width="100%"/>
+</p>
+
+
+
+<p align="center">
   ⚡ <em>Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect.</em> ⚡
 </p> 
