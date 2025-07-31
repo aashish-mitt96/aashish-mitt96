@@ -15,9 +15,10 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashish-mitt96&layout=compact&langs_count=4&theme=tokyonight" 
     alt="Top Languages"
-    width="900"
+    width="600"
 />
 </p>
+
 
 
 
