@@ -12,36 +12,27 @@
 <hr>
 
 
-<div align="center">
+<h3 align="center">📊 Top Languages Used</h3>
 
-<table>
-  <tr>
-    <td align="center"><img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" /></td>
-    <td align="center"><img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" /></td>
-    <td align="center"><img src="https://img.icons8.com/color/48/react-native.png" alt="React" /></td>
-    <td align="center"><img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" /></td>
-    <td align="center"><img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" /></td>
-    <td align="center"><img src="https://img.icons8.com/color/48/express.png" alt="Express.js" /></td>
-    <td align="center"><img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" /></td>
-    <td align="center"><img src="https://img.icons8.com/color/48/css3.png" alt="CSS" /></td>
-    <td align="center"><img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" /></td>
-    <td align="center"><img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>JavaScript</b></td>
-    <td align="center"><b>TypeScript</b></td>
-    <td align="center"><b>React</b></td>
-    <td align="center"><b>Node.js</b></td>
-    <td align="center"><b>MongoDB</b></td>
-    <td align="center"><b>Express.js</b></td>
-    <td align="center"><b>HTML</b></td>
-    <td align="center"><b>CSS</b></td>
-    <td align="center"><b>Tailwind</b></td>
-    <td align="center"><b>Bootstrap</b></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/aashish-mitt96">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashish-mitt96&layout=compact&theme=github_dark&langs_count=4" 
+      alt="Top Languages Used"
+      style="transform: scale(1.15); transform-origin: top;"
+    />
+  </a>
+</p>
 
-</div>
+
+
+
+
+
+
+
+---
+
 
 
 ## 📊 GitHub Stats
@@ -53,13 +44,7 @@
 
 ---
 
-## 📈 Top Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashish-mitt96&layout=compact&theme=github_dark&langs_count=10"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
