@@ -1,55 +1,44 @@
-<h1 align="center">✨ Hey there, I'm <span style="color:#007acc;">Ashish Mittal</span> 👋</h1>
+<h1 align="center">👋 Hey there! I'm <span style="color:#007acc;">Ashish Mittal</span> — Let's connect ✨</h1>
 
 <p align="center">
-  <strong>🚀 MERN Stack Developer | 🌱 Lifelong Learner | 🛠️ Tech Enthusiast</strong><br/>
-Building the web, one full-stack app at a time
+  <strong>💻 Full Stack (MERN) Developer</strong> &nbsp;|&nbsp; 
+  <strong>📚 Data Science & ML Learner</strong> &nbsp;|&nbsp; 
+  <strong>🧠 Problem Solver</strong><br/><br/>
+  <em>⚡ Crafting seamless web experiences, one full-stack app at a time ⚡</em>
 </p>
 
----
 
-## 🎓 About Me
+<div align="center">
 
-- 🎓 2nd Year Undergrad @ **IIIT Bhubaneswar**
-- ⚙️ Passionate about **Full-stack development** using MERN
-- 🤖 Exploring **Machine Learning** & AI
-- 🧠 I love building **projects** that solve real-world problems
+<table>
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" /></td>
+    <td align="center"><img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" /></td>
+    <td align="center"><img src="https://img.icons8.com/color/48/react-native.png" alt="React" /></td>
+    <td align="center"><img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" /></td>
+    <td align="center"><img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" /></td>
+    <td align="center"><img src="https://img.icons8.com/color/48/express.png" alt="Express.js" /></td>
+    <td align="center"><img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" /></td>
+    <td align="center"><img src="https://img.icons8.com/color/48/css3.png" alt="CSS" /></td>
+    <td align="center"><img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" /></td>
+    <td align="center"><img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>JavaScript</b></td>
+    <td align="center"><b>TypeScript</b></td>
+    <td align="center"><b>React</b></td>
+    <td align="center"><b>Node.js</b></td>
+    <td align="center"><b>MongoDB</b></td>
+    <td align="center"><b>Express.js</b></td>
+    <td align="center"><b>HTML</b></td>
+    <td align="center"><b>CSS</b></td>
+    <td align="center"><b>Tailwind</b></td>
+    <td align="center"><b>Bootstrap</b></td>
+  </tr>
+</table>
 
----
+</div>
 
-## 🛠️ Skills & Tools
-
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</p>
-
-### 🚀 Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/shadcn/ui-1E1E1E?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-</p>
-
-### 🗃️ Database & Tools
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-</p>
-
----
 
 ## 📊 GitHub Stats
 
