@@ -35,7 +35,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aashish-mitt96&theme=github-dark" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aashish-mitt96&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true" width="100%"/>
 </p>
 
 
