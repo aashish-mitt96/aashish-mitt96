@@ -22,21 +22,6 @@
 />
 </p>
 
-<hr>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=aashish-mitt96&theme=github-dark&hide_border=true" 
-    height="200" 
-    width="900"
-/>
-</p>
-
-<hr>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aashish-mitt96&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true" width="100%"/>
-</p>
 
 
 
