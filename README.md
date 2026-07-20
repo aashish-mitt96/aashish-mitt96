@@ -10,8 +10,9 @@
   <strong>🤖 AI/ML Developer</strong>
   <br/><br/>
   <em>🚀 Building scalable software, intelligent systems, and impactful digital experiences.</em>
+  <br/>
+  <em>🎯 Focused on creating clean, efficient, and scalable applications that solve real-world problems.</em>.
 </p>
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0D1117,25:161B22,50:1F6FEB,75:0A84FF,100:58A6FF"/>
 
@@ -28,8 +29,6 @@
     height="150"
   />
 </p>
-
-
 
 <br>
 
