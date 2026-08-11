@@ -21,12 +21,12 @@
 
 <p align="center">
   <img
-    src="https://git-hub-stats-ochre.vercel.app/api?username=aashish-mitt96&show_icons=true&count_private=true&hide=prs,issues&theme=tokyonight&hide_border=true"
+    src="https://git-hub-stats-ochre.vercel.app/api?username=aashish-mitt96&show_icons=true&count_private=true&hide=prs,issues&theme=tokyonight&hide_border=true&card_width=450"
     height="170"
   />
   &nbsp;&nbsp;
   <img
-    src="https://git-hub-stats-ochre.vercel.app/api/top-langs/?username=aashish-mitt96&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"
+    src="https://git-hub-stats-ochre.vercel.app/api/top-langs/?username=aashish-mitt96&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&card_width=350"
     height="150"
   />
 </p>
